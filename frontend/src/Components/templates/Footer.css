@@ -1,0 +1,20 @@
+footer.footer{
+    display: flex;
+    align-items: center;
+    justify-content:  flex-end;
+    padding: 0 25px;
+    background-color: #FFF;
+    box-shadow: var(--shadow);
+}
+
+span.footer{
+    color: black;
+    background:fixed;
+}
+.footer a{
+    text-decoration: none;
+    color: #FFF;
+}
+span.text {
+    color: #07a7e3;
+}
